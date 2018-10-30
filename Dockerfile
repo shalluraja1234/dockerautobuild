@@ -2,4 +2,4 @@ FROM java
 COPY HelloWorld.java .
 RUN javac HelloWorld.java
 
-CMD ["java", "HelloWorldDocker"]
+CMD ["java", "New HelloWorldDocker"]
